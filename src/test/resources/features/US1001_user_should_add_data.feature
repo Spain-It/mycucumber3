@@ -14,3 +14,4 @@ Feature: US1001_user_should_add_data
     And user clicks on the create button
     And search for the first name
     Then verify the name fields contains first name
+    Then verify
